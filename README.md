@@ -1,4 +1,4 @@
-# 秀xx动(xiudong) js逆向分析 爬取发包
+# 某秀dong js逆向分析 爬取发包
 # 声明
 
 本文章中所有内容仅供学习交流，抓包内容、敏感网址、数据接口均已做脱敏处理，严禁用于商业用途和非法用途，否则由此产生的一切后果均与作者无关，若有侵权，请联系我立即删除！
@@ -160,7 +160,7 @@ const decrypt = function (e, n) {
 
 # 完整代码
 
-**以下只演示部分关键代码，不能直接运行！**完整代码仓库地址：https://github.com/kgepachong/crawler/
+**以下只演示部分关键代码，不能直接运行！**完整代码仓库地址：https://github.com/victory-volunteer/xiudong_js/
 
 ## JavaScript 加密
 
