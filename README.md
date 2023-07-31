@@ -1,4 +1,4 @@
-# 某秀dong js逆向分析 发包抓取
+# 秀动 js逆向分析 发包抓取
 
 # 声明
 
@@ -6,7 +6,7 @@
 
 # 逆向目标
 
-- 目标：秀dong购票请求（h5端）
+- 目标：秀动购票请求（h5端）
 - 接口：`Imh0dHBzOi8vd2FwLnNob3dzdGFydC5jb20vdjMvbmovb3JkZXIvZ2V0Q29yZU9yZGVyUmVzdWx0Ig==`
 - 逆向参数：Request Payload 的 q 参数；Request Headers 的 st_flpv、crpsign、crtraceid 等参数。
 
@@ -207,4 +207,4 @@ function create_crpsign(t_,st_flpv,cuuserref,crtraceid,url_path,I_,sign='',useri
 
 # 欢迎关注
 
-![image-20230724211752875](img/image-20230727202633484.png)
+![image-20230731230554590](img/image-20230731230554590.png)
