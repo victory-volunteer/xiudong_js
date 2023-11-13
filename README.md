@@ -161,7 +161,8 @@ const decrypt = function (e, n) {
 
 # 完整代码
 
-**以下只演示部分关键代码，不能直接运行！**完整代码仓库地址：https://github.com/victory-volunteer/xiudong_js/
+**以下只演示部分关键代码，不能直接运行！**
+> 完整版程序参见[公众号文章](https://mp.weixin.qq.com/s/1gNqMc7oOBXyJ9uAx7C2Lg)。
 
 ## JavaScript 加密
 
